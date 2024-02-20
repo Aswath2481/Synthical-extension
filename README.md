@@ -6,6 +6,6 @@ As of now you can use this extension by cloning it and loading it manually. More
 
 Will soon publish this in chrome store.
 
-Sythical, If you are seeing this, we need a official extension!!
+Synthical, If you are seeing this, we need a official extension!!
 
 [Demo](./Media/sythical-extension.mp4)
