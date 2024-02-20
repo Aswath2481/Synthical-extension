@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Synthical Extension",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "main.html"
+  },
+  "description": "Open https://arxiv.org/ papers in Synthical "
+}
